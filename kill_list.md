@@ -9,3 +9,4 @@ Kill List
 * Horizontal view
 * Commits
 * Small function
+* Small class
